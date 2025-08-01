@@ -14,6 +14,9 @@ A lightweight, reusable Swift SDK for basic mathematical operations. Currently s
 - ✅ Compatible with iOS 12+
 
 ---
+
+## 📦 Installation
+
 ### 🍫 CocoaPods(Recommended)
 
 To integrate MathOperationsSDK using [CocoaPods](https://cocoapods.org), add the following line to your `Podfile`:
@@ -21,8 +24,6 @@ To integrate MathOperationsSDK using [CocoaPods](https://cocoapods.org), add the
 ```ruby
 pod 'MathOperationsSDK'
  ```
-
-## 📦 Installation
 
 ### ➕ Swift Package Manager
 
