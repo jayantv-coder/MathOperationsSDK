@@ -33,7 +33,7 @@ Add the following to your `Package.swift`:
 .package(url: "https://github.com/jayantv-coder/MathOperationsSDK.git", from: "1.0.0")
  ```
 
-##🚀 Usage
+## 🚀 Usage
 ### Import the SDK
 ```swift
 import MathOperationsSDK
