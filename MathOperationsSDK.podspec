@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "MathOperationsSDK"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "A simple Swift SDK for basic math operations."
   
   spec.description  = <<-DESC
