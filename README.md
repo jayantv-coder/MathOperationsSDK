@@ -17,9 +17,29 @@ A lightweight, reusable Swift SDK for basic mathematical operations. Currently s
 
 ## 📦 Installation
 
-### ➕ Swift Package Manager (Recommended)
+### 🍫 CocoaPods(Recommended)
+
+To integrate MathOperationsSDK using [CocoaPods](https://cocoapods.org), add the following line to your `Podfile`:
+
+```ruby
+pod 'MathOperationsSDK'
+ ```
+
+### Swift Package Manager
 
 Add the following to your `Package.swift`:
 
 ```swift
 .package(url: "https://github.com/jayantv-coder/MathOperationsSDK.git", from: "1.0.0")
+ ```
+
+## 🚀 Usage
+### Import the SDK
+```swift
+import MathOperationsSDK
+ ```
+### Initialize and Perform Operations
+```swift
+let math = Addition()
+let sum = math.add(10, 5)             // Output: 15
+ ```
