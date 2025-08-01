@@ -42,4 +42,7 @@ import MathOperationsSDK
 ```swift
 let math = Addition()
 let sum = math.add(10, 5)             // Output: 15
+
+let sub = Subtraction()
+let result = sub.subtract(20,10)      // Output: 10
  ```
