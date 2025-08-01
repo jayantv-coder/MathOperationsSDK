@@ -23,3 +23,10 @@ Add the following to your `Package.swift`:
 
 ```swift
 .package(url: "https://github.com/jayantv-coder/MathOperationsSDK.git", from: "1.0.0")
+
+### 🍫 CocoaPods
+
+To integrate MathOperationsSDK using [CocoaPods](https://cocoapods.org), add the following line to your `Podfile`:
+
+```ruby
+pod 'MathOperationsSDK'
