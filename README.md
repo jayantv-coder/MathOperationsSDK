@@ -25,7 +25,7 @@ To integrate MathOperationsSDK using [CocoaPods](https://cocoapods.org), add the
 pod 'MathOperationsSDK'
  ```
 
-### ➕ Swift Package Manager
+### Swift Package Manager
 
 Add the following to your `Package.swift`:
 
@@ -33,4 +33,13 @@ Add the following to your `Package.swift`:
 .package(url: "https://github.com/jayantv-coder/MathOperationsSDK.git", from: "1.0.0")
  ```
 
-
+##🚀 Usage
+### Import the SDK
+```swift
+import MathOperationsSDK
+ ```
+### Initialize and Perform Operations
+```swift
+let math = Addition()
+let sum = math.add(10, 5)             // Output: 15
+ ```
